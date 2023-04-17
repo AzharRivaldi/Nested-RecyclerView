@@ -7,7 +7,7 @@ https://youtu.be/pt_ggRGsAJo
 # Tutorial Build with Step by Step
 https://rivaldi48.blogspot.com/2023/04/tutorial-membuat-nested-recyclerview.html
 
-<img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYGrDAtn4cdnxq5JVvskE-LB-_dE1F_Lht5ApeAiR7hlzH8f5jgWGhDPYlL6v2bJMXcZqZxCVScX5mdvnNCWZbUUBeoHaUIVovL-uwY7VJA28paOauUdebJ7GPYa6NpjKtAWTuwhyzvt3rUMr_reiOkLz44F6TjezdypiEq3GPSuI-mzlRRAqpB_XLNA/s1280/Tutorial%20Membuat%20Nested%20RecyclerView%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYGrDAtn4cdnxq5JVvskE-LB-_dE1F_Lht5ApeAiR7hlzH8f5jgWGhDPYlL6v2bJMXcZqZxCVScX5mdvnNCWZbUUBeoHaUIVovL-uwY7VJA28paOauUdebJ7GPYa6NpjKtAWTuwhyzvt3rUMr_reiOkLz44F6TjezdypiEq3GPSuI-mzlRRAqpB_XLNA/s1280/Tutorial%20Membuat%20Nested%20RecyclerView%20dengan%20Android%20Studio.png" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYGrDAtn4cdnxq5JVvskE-LB-_dE1F_Lht5ApeAiR7hlzH8f5jgWGhDPYlL6v2bJMXcZqZxCVScX5mdvnNCWZbUUBeoHaUIVovL-uwY7VJA28paOauUdebJ7GPYa6NpjKtAWTuwhyzvt3rUMr_reiOkLz44F6TjezdypiEq3GPSuI-mzlRRAqpB_XLNA/s1280/Tutorial%20Membuat%20Nested%20RecyclerView%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYGrDAtn4cdnxq5JVvskE-LB-_dE1F_Lht5ApeAiR7hlzH8f5jgWGhDPYlL6v2bJMXcZqZxCVScX5mdvnNCWZbUUBeoHaUIVovL-uwY7VJA28paOauUdebJ7GPYa6NpjKtAWTuwhyzvt3rUMr_reiOkLz44F6TjezdypiEq3GPSuI-mzlRRAqpB_XLNA/s1280/Tutorial%20Membuat%20Nested%20RecyclerView%20dengan%20Android%20Studio.png" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
